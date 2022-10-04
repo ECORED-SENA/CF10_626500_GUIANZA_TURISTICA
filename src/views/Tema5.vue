@@ -25,7 +25,7 @@
       .col-lg-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 8
-          span Ejemplo formato voucher
+          span Ejemplo formato <i>voucher</i>
         img(src='@/assets/curso/tema5/img2.svg', alt='Texto que describa la imagen')
     p.mt-3 Antes de empezar la operación del servicio guiado, se debe informar al contratante o a los proveedores las siguientes anomalías: 
     .row
@@ -45,7 +45,7 @@
             .p-4
               h5 Diferencias respecto a los servicios previstos.
               p Por ejemplo otro hotel, otras fechas, etc. Es ideal aclarar la situación con tranquilidad para evitar preocupaciones innecesarias al usuario y facilitarle opciones según sea el caso. (Barrios, 2016).
-    p Además del voucher u orden de servicio, debe identificar qué actividades requieren recursos económicos para su desarrollo y solicitar con anticipación: el efectivo o documentos comerciales tales como cheques, transferencias bancarias que son los comprobantes de actos mercantiles.
+    p Además del <i>voucher</i> u orden de servicio, debe identificar qué actividades requieren recursos económicos para su desarrollo y solicitar con anticipación: el efectivo o documentos comerciales tales como cheques, transferencias bancarias que son los comprobantes de actos mercantiles.
     .row.mt-5
       .col-lg-2
         .row
@@ -155,7 +155,7 @@
                 p.mb-0 Registrar la tarjeta para operación mediante el datáfono: se introducen los datos correspondientes a la tarjeta y/o usuario en el datáfono para efectuar la operación.
               li 
                 i.fas.fa-brain
-                p.mb-0 Imprimir o enviar voucher, que firmará (en digital o en físico) el usuario como constancia de la operación y a su vez recibirá una copia. La firma ya no es necesaria en este tipo de transacciones.
+                p.mb-0 Imprimir o enviar <i>voucher</i>, que firmará (en digital o en físico) el usuario como constancia de la operación y a su vez recibirá una copia. La firma ya no es necesaria en este tipo de transacciones.
 
           .col-md-6
             figure

@@ -45,28 +45,37 @@
       table
         thead
           tr
-            th Material
-            th Uso
+            <th colspan="2"> Material</th>
+            th Uso <br>Opreción Interpretación
 
         tbody
           tr
             td <strong>Material turístico sobre destino y atractivos:</strong> mapa de rutas, plano de la ciudad, listado facilidades (alojamiento,	 alimentación y entretención), cupones de descuentos, atractivos locales y regionales. 
-            td [  ]
+            td.text-center X
+            td 
+
           tr
             td <strong>Material promocional de la empresa organizadora viaje:</strong> tarjetas, brochures, esferos, similares.
+            td.text-center X
             td 
           tr
             td <strong>Informativo sobre el servicio:</strong> folletos con itinerario del viaje, impresos con información del guía y los servicios incluidos. También son indicaciones sobre alguna actividad interpretativa.
-            td 
+            td.text-center X
+            td.text-center X
           tr
             td <strong>Señalética:</strong> en este grupo se encuentran los banderines, los distintivos de colores brillantes en la indumentaria del guía o de los turistas. Se usa como objeto que facilita la ubicación visual de algo, en este caso específico del guía.
-            td 
+            td.text-center X
+            td.text-center X
           tr
             td <strong>Didácticos:</strong> hacen relación a elementos que diseña el guía o usa para actividades recreativas o para facilitar la explicación sobre un atractivo turístico, un fenómeno natural o una costumbre. Entre ellos: catálogo especializado, álbum de fotos antiguas, juegos de mesa, afiches. bombas, vasos, entre otros.
             td 
+            td.text-center X
+
           tr
             td <strong>Formatos:</strong> lista de pasajeros, bitácora, encuesta de satisfacción.
+            td.text-center X
             td 
+
     separador
     #t_4_2.titulo-segundo.color-acento-contenido
       h2 4.2  Especificaciones técnicas de equipos operativos y de seguridad 

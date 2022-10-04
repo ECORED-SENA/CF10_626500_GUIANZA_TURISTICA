@@ -119,6 +119,32 @@
           tr
             td Orienta sobre las características de los sitios a visitar.
             td [  ]
+          tr
+            td Instuye sobre el patrimonio y sostenibilidad.
+            td [  ]    
+          tr
+            td Instruye sobre patrimonio y sostenibilidad.
+            td [  ]   
+          tr
+            td Asiste al usuario en trámites.
+            td [  ] 
+          tr
+            td <strong>Controlar</strong>
+            td 
+          tr
+            td Reporta cualquier anomalía en la prestación del servicio.
+            td [  ] 
+          tr
+            td Realiza una realimentación con el usuario sobre el servicio.
+            td [  ] 
+          tr
+            td Analiza las diferencias entre lo planteado y ejecutado.
+            td [  ] 
+
+
+
+
+
     .row.justify-content-center.mt-5
       .col-lg-10
         .row
@@ -157,25 +183,47 @@
         h4.mb-0 Plan de acción 
       table
         tr
-          <th colspan="3"> Información del servicio</th>
+          <th colspan="6"> Información del servicio</th>
         tr
-          <th colspan="3"> Objetivo</th>
+          <th colspan="6"> Objetivo</th>
         tr
-          th Fecha y hora de inicio
-          td Fecha y hora de inicio
-          td N° de usuarios
+          <th colspan="2"> Fecha y hora de inicio</th>
+          <td colspan="2"> Fecha y hora de inicio</td>
+          <td colspan="2"> N° de usuarios</td>
         tr
-          th Guía coordinador
-          td Contratante
-          td N° de guias
+          <th colspan="2"> Guía coordinador</th>
+          <td colspan="2"> Contratante</td>
+          <td colspan="2"> N° de guias</td>
         tr
-          th Punto encuentro 
-          td Ruta (paradas o estaciones)
-          td Destino
+          <th colspan="2"> Punto encuentro </th>
+          <td colspan="2"> Ruta (paradas o estaciones)</td>
+          <td colspan="2"> Destino</td>
         tr
-          <th colspan="3"> Diseño gráfico del recorrido</th>
+          <th colspan="6"> Diseño gráfico del recorrido</th>
         tr
-          <th colspan="3"> Información de proveedores</th>          
+          <th colspan="6"> Información de proveedores</th>   
+        tr
+          <th colspan="2"> Empresa/nombre/contacto</th>
+          <td colspan="2"> Dirección y teléfono/ ubicación</td>
+          <td colspan="2"> Observaciones</td>
+        tr
+          <th colspan="6"> Información de los guias</th>   
+        tr
+          <th colspan="2"> Cargo</th>
+          <td colspan="2"> Nombre completo</td>
+          <td colspan="2"> Información de contacto (mail y celular)   </td>  
+        tr
+          <th colspan="6"> Descripción de actividades-itinerarios de trabajo</th>   
+        tr          
+        tr
+          th Fecha/Hora
+          td Actividad (descripción)
+          td Responsable
+          td Equipos/materiales
+          td Unidades
+          td Observaciones  
+        tr
+          <th colspan="6"> Elaborado por:__________________________________________________________</th>   
 </template>
 
 <script>

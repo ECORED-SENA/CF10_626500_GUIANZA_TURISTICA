@@ -59,10 +59,11 @@
         .bloque-texto-d.color-secundario.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            p La palabra administración viene del latín ad (dirección, tendencia) y minister (subordinación u obediencia), y significa cumplimiento de una función bajo el mando de otro, en otras palabras, prestar un servicio a otra persona. A pesar de que esta definición es general, hoy por hoy, la tarea actual de la administración consiste en el proceso de planear, organizar, dirigir y controlar el uso de recursos para lograr los fines de una empresa 
+            p La palabra administración viene del latín <d>ad</d> (dirección, tendencia) y <d>minister</d> (subordinación u obediencia), y significa cumplimiento de una función bajo el mando de otro, en otras palabras, prestar un servicio a otra persona. A pesar de que esta definición es general, hoy por hoy, la tarea actual de la administración consiste en el proceso de planear, organizar, dirigir y controlar el uso de recursos para lograr los fines de una empresa 
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             .h4.mb-0 (Chiavenato,  2012).
+        p.mt-2 La disciplina administrativa cuenta con diversas teorías que han ido evolucionando con el paso del tiempo y estas varían enormemente según la escuela de pensamiento, destacándose de acuerdo con el énfasis y los enfoques de cada una de estas, como se presenta seguidamente:
       .col-lg-5
         img(src='@/assets/curso/tema1/img4.jpg' alt='AvatarTop' )
     .tarjeta.tarjeta--gris.p-4.mb-5.mt-4

@@ -36,11 +36,11 @@
           .row(titulo="Planear el servicio")
             .col-md-1
             .col-md-10.mb-4.mb-md-0
-              p Solicitar al contratante del servicio, según sea el caso, información previa como: plan de viaje, lista de usuarios (nombre, identificación y número de contacto), pólizas de seguros, datos de contacto de proveedores y características de los servicios contratados (ejemplo para vehículo, placa, capacidad). Para la ejecución del servicio: cartelitos de la agencia para informar a los turistas, el material publicitario o POP, distribución en habitaciones. Formatos impresos, para registrar novedades y el desarrollo del viaje.
+              p Planear con antelación todo lo concerniente al servicio, previo a la llegada de los turistas. En la avanzada, el guía reconoce el atractivo o sitio a visitar, las vías de acceso y de salida, el clima, las condiciones propias del lugar para tomar decisiones en el viaje, dado el caso.
           .row(titulo="Coordinar los servicios y prestaciones con los proveedores")
             .col-md-1
             .col-md-10.mb-4.mb-md-0
-              p Solicitar al contratante del servicio, según sea el caso, información previa como: plan de viaje, lista de usuarios (nombre, identificación y número de contacto), pólizas de seguros, datos de contacto de proveedores y características de los servicios contratados (ejemplo para vehículo, placa, capacidad). Para la ejecución del servicio: cartelitos de la agencia para informar a los turistas, el material publicitario o POP, distribución en habitaciones. Formatos impresos, para registrar novedades y el desarrollo del viaje.
+              p Coordinar los servicios y prestaciones con los proveedores en los hoteles, medios de transporte, en restaurantes, en espectáculos y similares.
                     
       .col-lg-5
         img(src='@/assets/curso/tema3/img3.png', alt='Texto que describa la imagen')
@@ -72,7 +72,7 @@
                 p Presentarse a sí mismo y a su equipo de trabajo. 
                 p.mt-4 Informar a los turistas el idioma en el que se prestará el servicio, las tarifas (costo total del servicio, que incluye y que no), la duración del servicio, el aforo de participantes, así como todos los demás detalles del servicio a ofrecer.
                 p.mt-3 Actuar como interlocutor entre la agencia y el grupo.
-                p.mt-4 Asistir a los viajeros en los "check in" y "check out" de aeropuertos y hoteles. Está al tanto del equipaje, el transporte, las reservas.
+                p.mt-4 Asistir a los viajeros en los <i>"check in"</i> y <i>"check out"</i> de aeropuertos y hoteles. Está al tanto del equipaje, el transporte, las reservas.
                 p.mt-4 Comunicar datos técnicos sobre los sitios a visitar. Asimismo, datos de interés particular como cambios de divisas, compras, otros sitios para visitar, alternativas gastronómicas, entre otros.
             
             .row.justify-content-center.mb-5
@@ -142,7 +142,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 3
-            | Coordinador/ tour leader/ gerente de viaje / tour conductor.
+            | Coordinador/  <i>tour leader</i>/ gerente de viaje / <i>tour conductor.</i>
 
           li 
             .lista-ol--cuadro__vineta
@@ -332,6 +332,61 @@
               th Maneja los recursos financieros.
             tr
               th Realiza una realimentación con el grupo.
+        .tabla-b.color-acento-contenido.mb-0
+          .tabla-b__header
+            h4.mb-0 Orienta 
+          table
+            tr
+              th Se presenta a sí mismo y a su equipo de trabajo. 
+            tr
+              th Presenta al usuario su Tarjeta Profesional y RNT.
+            tr
+              th Informa sobre características físicas de los sitios a visitar, protocolos de seguridad, medios de pago, sistema público de transporte, entre otros.
+        .tabla-b.color-acento-contenido.mb-0
+          .tabla-b__header
+            h4.mb-0 Instruye 
+          table
+            tr
+              th Identifica los atractivos turísticos. 
+            tr
+              th Ilustra sobre el patrimonio.
+            tr
+              th Informa sobre el respeto sociocultural y la sostenibilidad. 
+            tr
+              th Pregunta si existen dudas y ofrece las explicaciones.
+        .tabla-b.color-acento-contenido.mb-0
+          .tabla-b__header
+            h4.mb-0 Asiste 
+          table
+            tr
+              th Asesora a los usuarios sobre servicios financieros.
+            tr
+              th Facilita soluciones a las restricciones alimenticias del usuario.
+            tr
+              th Acompaña a los turistas en caso de robo o pérdida de documentos.
+            tr
+              th Asesora al usuario para las compras de su interés.
+            tr
+              th Asiste al usuario como primer respondiente cuando lo requiera.
+            tr
+              th Evalúa la contingencia de acuerdo con la situación.
+            tr
+              th Utiliza el plan de contingencias o propone posibles soluciones.
+        .tabla-b.color-acento-contenido.mb-0
+          .tabla-b__header
+            h4.mb-0 Controla 
+          table
+            tr
+              th Efectúa conteos periódicos del grupo.
+            tr
+              th Reporta cualquier anomalía en la prestación del servicio. 
+            tr
+              th Realiza una realimentación con el usuario sobre el servicio.
+            tr
+              th Diligencia la lista de chequeo para la prestación del servicio.
+            tr
+              th Analiza las diferencias entre los planteado y ejecutado.
+
 
 
 

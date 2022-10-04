@@ -222,7 +222,8 @@ export default {
     {
       referencia:
         'Instituto Distrital de Turismo. (2020). Estudio técnico de la guianza turística en Bogotá. Instituto Distrital de Turismo.',
-      link: 'https://bit.ly/3wQchuh',
+      link:
+        'https://www.idt.gov.co/sites/default/files/pdfs%20observatorio/Estudio%20Técnico%20de%20la%20Guianza%20Turística%20en%20Bogotá%20DV%20V1.pdf',
     },
     {
       referencia:
@@ -275,7 +276,7 @@ export default {
     {
       termino: 'Material POP',
       significado:
-        'hace referencia a las piezas publicitarias como folletos plegables, mugs personalizados, afiches, pendones, revistas, esferos publicitarios, bolsas impresas entre otros. El término es la sigla en inglés de point of purchase, que traduce punto de venta (Imprestar, 2020).',
+        'hace referencia a las piezas publicitarias como folletos plegables, <i>mugs</i> personalizados, afiches, pendones, revistas, esferos publicitarios, bolsas impresas entre otros. El término es la sigla en inglés de <i>point of purchase</i>, que traduce punto de venta (Imprestar, 2020).',
     },
     {
       termino: 'Medicamentos',
@@ -399,6 +400,12 @@ export default {
       {
         nombre: 'Sergio Mauricio Valencia Martinez',
         cargo: 'Desarrollo Front-End',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Melina Tatiana Quintero Rodriguez',
+        cargo: 'Revisión de contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },

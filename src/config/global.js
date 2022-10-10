@@ -372,6 +372,57 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Oscar Manuel Gómez Murillo',
+        cargo: 'Instructor',
+        centro:
+          'Regional Distrito Capital - Centro Nacional de Hotelería, Turismo y Alimentos',
+      },
+      {
+        nombre: 'Samira Pineda Cuevas',
+        cargo: 'Instructora ',
+        centro:
+          'Regional Distrito Capital - Centro Nacional de Hotelería, Turismo y Alimentos',
+      },
+      {
+        nombre: 'Wilson Pacheco Gutiérrez',
+        cargo: 'Instructor ',
+        centro:
+          'Regional Distrito Capital - Centro Nacional de Hotelería, Turismo y Alimentos',
+      },
+      {
+        nombre: 'Alejandro Perlaza Espinosa',
+        cargo: 'Instructor Técnico ',
+        centro:
+          'Regional Distrito Capital - Centro Nacional de Hotelería, Turismo y Alimentos',
+      },
+      {
+        nombre: 'Claudia Patricia Porras Otálora',
+        cargo: 'Instructora ',
+        centro:
+          'Regional Distrito Capital - Centro Nacional de Hotelería, Turismo y Alimentos',
+      },
+      {
+        nombre: 'Luisa Fernanda Posada Hincapié',
+        cargo: 'Experta temática ',
+        centro: 'Regional Quindío - Centro de Comercio, Industria y Turismo.',
+      },
+      {
+        nombre: 'María Inés Machado López',
+        cargo: 'Diseñadora instruccional',
+        centro:
+          'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios.',
+      },
+      {
+        nombre: 'Ana Catalina Córdoba Sus',
+        cargo: 'Asesora Metodológica',
+        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología.',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología.',
+      },
     ],
     desarrolloProducto: [
       {

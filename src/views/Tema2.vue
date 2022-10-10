@@ -91,7 +91,7 @@
             td.colora Periodicidad
           tr
             td <strong>Descripción del procedimiento</strong>
-            td 
+            td.text-center Horas, días o meses
           tr
             td <strong>Planificar</strong>
             td 

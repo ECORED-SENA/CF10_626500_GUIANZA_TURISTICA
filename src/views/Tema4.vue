@@ -107,7 +107,7 @@
             img(src='@/assets/curso/tema4/img5.svg', alt='Texto que describa la imagen')
 
         .tarjeta.color-acento-botones.p-3(x="24%" y="15%" numero="+")
-          .h4.mb-2 Touring Guide System - TGS
+          .h4.mb-2 <i>Touring Guide System - TGS</i>
           p Es un dispositivo de audio inalámbrico que permite a los guías o coordinadores de grupos dar sus explicaciones e información sin tener que elevar la voz para ser escuchado, incluso en sitios abiertos. El guía o coordinador del grupo utiliza un emisor con un micrófono y los turistas llevan un audífono conectado inalámbricamente a un receptor. 
           p Debe siempre encenderse el equipo para determinar un posible daño, realizar inspección visual externa, revisar el switch de encendido y el control de volumen, así como el speaker (parlante) y el micrófono, hacer limpieza con paño seco. Proteger de excesivas temperaturas bajas o altas.
         .tarjeta.color-acento-botones.p-3(x="78%" y="15%" numero="+")
@@ -130,13 +130,13 @@
           .h4.mb-2 Amplificadores de talla
           p Este es un equipo que tiene la función de transmitir la información a un volumen superior al de la voz humana útil para el manejo de grupos numerosos.
 
-          p En cuanto a sus cuidados y mantenimientos, deben seguirse los pasos del Touring Guide System – TGS.
+          p En cuanto a sus cuidados y mantenimientos, deben seguirse los pasos del <i>Touring Guide System – TGS</i>.
         .tarjeta.color-acento-botones.p-3(x="99%" y="73%" numero="+")
           .h4.mb-2 Linterna
           p Es un elemento útil que integra el equipo para la seguridad en caso de ausencia de luz con el fin de evitar caídas y accidentes, práctico y fácil de usar ya que tiene un interruptor de encendido y apagado.
           p Mantener sin las pilas cuando no esté en uso y en un lugar seco y protegido de excesivas temperaturas altas o muy bajas.
         .tarjeta.color-acento-botones.p-3(x="31%" y="90%" numero="+")
-          .h4.mb-2 Walkie o radio comunicador
+          .h4.mb-2 <i>Walkie</i> o radio comunicador
           p Marino y terrestre: son útiles para la comunicación y mantenerse en contacto con los organizadores y staff.  Entre estos dispositivos también se incluyen el transceptor marino. Recuerde siempre tener siempre baterías de reemplazo.
           p Como cualquier elemento eléctrico u operado por batería deben seguirse las instrucciones de cuidado ya mencionadas para este tipo de equipos.
     .row

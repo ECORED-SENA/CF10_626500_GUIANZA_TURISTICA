@@ -28,7 +28,7 @@
               span.c--4
                 i.fas.fa-caret-up.fa-2x.color-primario.me-3
                 i.fas.fa-caret-down.fa-2x.color-primario.me-3
-              h4.mb-0.text-center.mb-4  El guía de turismo crea estrategias y hace uso de recursos
+              h4.mb-0.text-center.mb-4.text-small  El guía de turismo crea estrategias y hace uso de recursos
             
             p.text-center.text-small En el rol administrativo, el guía genera unas estrategias y se ajusta a los procesos determinados por el contratante o, en caso de que sea necesario, los crea para lograr los objetivos propuestos. Debe tener una amplia y variada formación en diferentes disciplinas que le permitirán identificar los recursos idóneos, organizarlos, controlarlos. Además, investigar y asesorar a su contratante y el equipo de trabajo sobre las estrategias y los procesos del servicio, y así tener una dirección clara sobre la toma de decisiones y respuestas a la exigencia de los usuarios. 
       .col-lg-4.mb-3
@@ -75,7 +75,7 @@
         
           .col-md-3
             figure
-              img(src='@/assets/curso/tema1/img5.png', alt='Texto que describa la imagen')
+              img.imagec(src='@/assets/curso/tema1/img5.png', alt='Texto que describa la imagen')
               figcaption.mt-3.text-center Frederick Winslow Taylor
         .row.justify-content-center.mt-4(titulo="Teoría clásica")
           .col-md-6.mb-4.mb-md-0
@@ -84,7 +84,7 @@
         
           .col-md-3
             figure
-              img(src='@/assets/curso/tema1/img6.png', alt='Texto que describa la imagen')
+              img.imagec(src='@/assets/curso/tema1/img6.png', alt='Texto que describa la imagen')
               figcaption.mt-3.text-center  Henry Fayol
         .row.justify-content-center.mt-4(titulo="Teoría de las relaciones humanas")
           .col-md-6.mb-4.mb-md-0
@@ -93,7 +93,7 @@
         
           .col-md-3
             figure
-              img(src='@/assets/curso/tema1/img7.png', alt='Texto que describa la imagen')
+              img.imagec(src='@/assets/curso/tema1/img7.png', alt='Texto que describa la imagen')
               figcaption.mt-3.text-center  Elton Mayo
         .row.justify-content-center.mt-4(titulo="Teoría de las relaciones humanas")
           .col-md-6.mb-4.mb-md-0
@@ -102,7 +102,7 @@
         
           .col-md-3
             figure
-              img(src='@/assets/curso/tema1/img8.png', alt='Texto que describa la imagen')
+              img.imagec(src='@/assets/curso/tema1/img8.png', alt='Texto que describa la imagen')
               figcaption.mt-3.text-center   Max Weber
         .row.justify-content-center.mt-4(titulo="Teoría de las relaciones humanas")
           .col-md-6.mb-4.mb-md-0
@@ -111,10 +111,10 @@
         
           .col-md-3
             figure
-              img(src='@/assets/curso/tema1/img9.svg', alt='Texto que describa la imagen')
+              img.imagec(src='@/assets/curso/tema1/img9.svg', alt='Texto que describa la imagen')
     .row.justify-content-center
       .col-lg-10
-        .row
+        .row.align-items-center
           .col-lg-4
               img.za(src='@/assets/curso/tema1/img10.png', alt='Texto que describa la imagen')
           
@@ -127,7 +127,7 @@
       h2 1.2 Proceso administrativo y el ciclo de planear, hacer, verificar y actuar -PHVA- en el guionaje
     .row.justify-content-center
       .col-lg-10
-        .row
+        .row.align-items-center
           .col-lg-8
             .row.mt-5
             .row.p-5.baqq
@@ -138,13 +138,13 @@
       .col-lg-8
         img(src='@/assets/curso/tema1/img12.svg', alt='Texto que describa la imagen')
     p.mt-4 El proceso administrativo se enfoca en los procedimientos que son una serie de pasos o tareas organizadas cronológicamente y de manera técnica que buscan obtener un propósito concreto. A continuación, se presenta un ejemplo para el desarrollo de un plan de viaje: 
-    .row.justify-content-center
+    .row.justify-content-center.mt-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 1
           span Procedimientos del proceso administrativo, ejemplo plan de viaje
     img(src='@/assets/curso/tema1/img13.svg', alt='Texto que describa la imagen')
-    figcaption Nota. Tomada de Luna (2015).
+    figcaption.mt-3 Nota. Tomada de Luna (2015).
     .row.mt-4
       .col-lg-8.mt-5
         .row.p-4.colort1.mt-5
@@ -160,7 +160,7 @@
             figure
               img(src='@/assets/curso/tema1/img16.svg', alt='Texto que describa la imagen')
 
-          div(x="6%" y="15%" tooltip="tooltip de max 35 caracteres" )
+          div(x="6%" y="15%" tooltip="Planear" )
             .row.justify-content-center.mt-5.p-4.bcolor
               .col-lg-6
                 h4 Planear
@@ -172,7 +172,7 @@
                 img(src='@/assets/curso/tema1/img17.svg', alt='Texto que describa la imagen')
               .col-lg-1
 
-          div(x="82%" y="15%" tooltip="tooltip de max 35 caracteres" )
+          div(x="82%" y="15%" tooltip="Verificar" )
             .row.justify-content-center.mt-5.p-4.bcolor
               .col-lg-6
                 h4 Verificar
@@ -187,7 +187,7 @@
               .col-lg-5
                 img(src='@/assets/curso/tema1/img18.svg', alt='Texto que describa la imagen')
               .col-lg-1
-          div(x="6%" y="81%" tooltip="tooltip de max 35 caracteres" )
+          div(x="6%" y="81%" tooltip="Hacer" )
             .row.justify-content-center.mt-5.p-4.bcolor
               .col-lg-6
                 h4 Hacer
@@ -200,7 +200,7 @@
               .col-lg-5
                 img(src='@/assets/curso/tema1/img19.svg', alt='Texto que describa la imagen')
               .col-lg-1
-          div(x="82%" y="81%" tooltip="tooltip de max 35 caracteres" )
+          div(x="82%" y="81%" tooltip="Actuar" )
             .row.justify-content-center.mt-5.p-4.bcolor
               .col-lg-6
                 h4 Actuar

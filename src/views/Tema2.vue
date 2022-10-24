@@ -16,12 +16,12 @@
                 p.mt-5 Ordenar cronológicamente la realización de los procedimientos.
               .col-md-2
                 figure
-                  img(src='@/assets/curso/tema2/1.svg', alt='Texto que describa la imagen')
+                  img.tamaq(src='@/assets/curso/tema2/1.svg', alt='Texto que describa la imagen')
 
             .row.mt-4.mb-4
               .col-md-2.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/tema2/2.svg', alt='Texto que describa la imagen')
+                  img.tamaq(src='@/assets/curso/tema2/2.svg', alt='Texto que describa la imagen')
               .col-md-8
                 p.mt-4 Identificar la secuencia, es decir, determinar qué procedimientos deben realizarse antes de la otra, cuáles se dan simultáneamente y, por último, cuáles deben efectuarse por su conclusión.
             .row.mt-4.mb-4
@@ -29,11 +29,11 @@
                 p.mt-5 Asignar a cada procedimiento el tiempo de duración, así como los recursos necesarios.
               .col-md-2
                 figure
-                  img(src='@/assets/curso/tema2/3.svg', alt='Texto que describa la imagen')
+                  img.tamaq(src='@/assets/curso/tema2/3.svg', alt='Texto que describa la imagen')
             .row.mt-4.mb-4
               .col-md-2.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/tema2/4.svg', alt='Texto que describa la imagen')
+                  img.tamaq(src='@/assets/curso/tema2/4.svg', alt='Texto que describa la imagen')
               .col-md-8
                 p.mt-4 Debe establecer por escrito y en lo posible graficarse, debe ser preciso y de fácil comprensión para todo el equipo de trabajo.
             .row.mt-4.mb-4
@@ -41,7 +41,7 @@
                 p.mt-5 El programa debe ser flexible a los cambios que se presenten y de igual manera tener presentes las consecuencias.
               .col-md-2
                 figure
-                  img(src='@/assets/curso/tema2/5.svg', alt='Texto que describa la imagen')
+                  img.tamaq(src='@/assets/curso/tema2/5.svg', alt='Texto que describa la imagen')
         .row.mb-5
         .row.mb-5  
         .row.mb-5
@@ -64,7 +64,7 @@
       .row.justify-content-center
         .col-lg-10
           img(src='@/assets/curso/tema2/img2.svg', alt='Texto que describa la imagen')
-    p En guianza turística, la herramienta gráfica de Gantt es un recurso muy valioso para la planeación, y en la siguiente tabla se ofrece un ejemplo relacionado con este tema, donde se explica de forma descriptiva qué debe contener el recurso en relación con el tema que nos atañe.
+    p.mt-4 En guianza turística, la herramienta gráfica de Gantt es un recurso muy valioso para la planeación, y en la siguiente tabla se ofrece un ejemplo relacionado con este tema, donde se explica de forma descriptiva qué debe contener el recurso en relación con el tema que nos atañe.
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1
       span Ejemplo del Gráfico de Gantt en la planeación de la Guianza turística
@@ -147,7 +147,7 @@
 
     .row.justify-content-center.mt-5
       .col-lg-10
-        .row
+        .row.align-items-center
           .col-lg-4
               img.za(src='@/assets/curso/tema1/img10.png', alt='Texto que describa la imagen')
           
@@ -172,10 +172,10 @@
       span Elementos de la coordinación en la guianza turística
     .row.bg5
       .col-lg-11
-        img(src='@/assets/curso/tema2/img4.svg', alt='Texto que describa la imagen')
+        img(src='@/assets/curso/tema2/imas.png', alt='Texto que describa la imagen')
         figcaption Nota. Adaptado de la norma técnica NTS GT 012. 
     p.mt-4 Los componentes del plan de acción se integran al itinerario que es un sencillo paso a paso, de una ruta, donde se muestran los lugares y tiempos de cada una de las actividades programadas. En la siguiente tabla, se puede apreciar mediante un ejemplo, los componentes del plan de acción relacionados con el servicio, los proveedores, las guías y las actividades.
-    .titulo-sexto.color-acento-contenido
+    .titulo-sexto.color-acento-contenido.mt-5
       h5 Tabla 2
       span Ejemplo del plan de acción
     .tabla-b.color-acento-contenido.mb-5

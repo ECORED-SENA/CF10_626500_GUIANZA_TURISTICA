@@ -10,7 +10,7 @@
       .col-lg-6
         img(src='@/assets/curso/tema3/img1.png', alt='Texto que describa la imagen')
 
-      .col-lg-6
+      .col-lg-6.mt-4
         p De acuerdo con Chiavenato (2000), “cuando se habla de administración de recursos humanos, se toma como referencia la administración de las personas que participan en las organizaciones, las cuales desempeñan determinados roles”. En la guianza turística, al desarrollar el Ciclo PHVA, es fundamental al planificar “involucrar al recurso humano idóneo”, según el Instituto Distrital de Turismo - IDT (2020), el desempeño de los guías implica conocimiento, técnicas y aptitud de servicio, es crucial para determinar el grado de satisfacción de los visitantes y turistas, y, por ende, la medición de resultados desde los sectores público, privado, al igual que desde la academia. 
         .cajon.color-acento-contenido.p-4.mb-4
           p Aunque los roles del guía se sustentan en las funciones determinadas en la normativa, tales como: orientar, instruir, asistir y conducir al visitante o turista, las cuales deben articularse con otros prestadores de servicios que intervienen en la ejecución del recorrido (SENA, 2008). La responsabilidad del guía va más allá, porque es el encargado de conectar a los turistas o viajeros con la comunidad receptora y las áreas a visitar sin alterar el ambiente local. 
@@ -22,8 +22,8 @@
       .col-lg-2
         .row
           .col-lg-3
-            img(src='@/assets/curso/tema3/img2.svg', alt='Texto que describa la imagen')
-          .col-lg-9
+            img.fa(src='@/assets/curso/tema3/img2.svg', alt='Texto que describa la imagen')
+          .col-lg-9.lineaz
             h4.mt-1 En el antes
     p.mt-4 Informarse sobre el servicio a prestar, tanto del cliente como proveedores, teniendo en cuenta los aspectos que se describen a continuación.
     .row
@@ -48,13 +48,13 @@
       .col-lg-2
         .row
           .col-lg-3
-            img(src='@/assets/curso/tema3/img2.svg', alt='Texto que describa la imagen')
-          .col-lg-9
+            img.fa(src='@/assets/curso/tema3/img2.svg', alt='Texto que describa la imagen')
+          .col-lg-9.lineaz
             h4.mt-1 Durante
     
     p.mt-3 Se debe informar al grupo sobre los aspectos relacionados con el servicio, y disposición en la prestación de este, teniendo en cuenta los siguientes aspectos:
-    .row
-      .col-lg-4
+    .row.justify-content-center
+      .col-lg-4.col-8
         img(src='@/assets/curso/tema3/img5.png', alt='Texto que describa la imagen')
       .col-lg-8
         .tarjeta.tarjeta--naranja.p-4.mb-5
@@ -73,7 +73,7 @@
                 p.mt-4 Informar a los turistas el idioma en el que se prestará el servicio, las tarifas (costo total del servicio, que incluye y que no), la duración del servicio, el aforo de participantes, así como todos los demás detalles del servicio a ofrecer.
                 p.mt-3 Actuar como interlocutor entre la agencia y el grupo.
                 p.mt-4 Asistir a los viajeros en los <i>"check in"</i> y <i>"check out"</i> de aeropuertos y hoteles. Está al tanto del equipaje, el transporte, las reservas.
-                p.mt-4 Comunicar datos técnicos sobre los sitios a visitar. Asimismo, datos de interés particular como cambios de divisas, compras, otros sitios para visitar, alternativas gastronómicas, entre otros.
+                p.mt-4.mb-5 Comunicar datos técnicos sobre los sitios a visitar. Asimismo, datos de interés particular como cambios de divisas, compras, otros sitios para visitar, alternativas gastronómicas, entre otros.
             
             .row.justify-content-center.mb-5
               .col-md-1.mb-4.mb-md-0
@@ -94,25 +94,25 @@
       .col-lg-2
         .row
           .col-lg-3
-            img(src='@/assets/curso/tema3/img2.svg', alt='Texto que describa la imagen')
-          .col-lg-9
+            img.fa(src='@/assets/curso/tema3/img2.svg', alt='Texto que describa la imagen')
+          .col-lg-9.lineaz
             h4.mt-1 Después
     p Elaborar los informes necesarios, y requeridos en el servicio, teniendo en cuenta los siguientes aspectos:
-    .row.mt-4
-      .col-lg-4
+    .row.mt-4.justify-content-center
+      .col-lg-4.col-8
         img(src='@/assets/curso/tema3/img4.png', alt='Texto que describa la imagen')
       .col-lg-8  
         .row.mt-5
         .row.bac.mt-5
           ul.lista-ul--color.mt-5.mb-5
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               | Elaborar un informe final para la agencia: cómo ha transcurrido el viaje, nivel de satisfacción por parte de los clientes, etc. 
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               | Entregar los equipos en las mismas condiciones que los recibió.
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               | Hacer una relación de la distribución de los recursos financieros que se le hayan encomendado.
     separador                    
     #t_3_2.titulo-segundo.color-acento-contenido
@@ -123,9 +123,9 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Dependiendo del número de usuarios y la complejidad del servicio, el guía requiere un equipo de trabajo, dicho de otro modo, “un grupo de personas que se organiza para realizar una labor determinada y alcanzar un objetivo común” (Icontec y MinCIT, 2016). Los guías de turismo pueden asumir diferentes roles, según la actividad que realicen (turismo metropolitano, turismo de naturaleza, por ejemplo), tales como coordinador o tour líder (encargado de todos los aspectos del recorrido), guía puntero (en turismo de naturaleza, quien muestra el camino), apoyo prehospitalario APH (guías con conocimientos y estudios en primeros auxilios), o guía rastrillo (en turismo de naturaleza, encargado de recoger el grupo y no permitir su pérdida), entre otros. 
-    .row.mt-5
+    .row.mt-5.justify-content-center
       .col-lg-1
-      .col-lg-4
+      .col-lg-4.col-8
         img(src='@/assets/curso/tema3/img7.png', alt='Texto que describa la imagen')
       .col-lg-5   
         ol.lista-ol--cuadro.lista-ol--separador
@@ -155,129 +155,129 @@
             | Guía de cierre / Guía rastrillo.
     p.mt-4 A continuación, se expone una explicación de cada uno de estos roles.   
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
-      .row.justify-content-center(titulo="Paso 1. Guía APH (atención prehospitalaria)")
+      .row.justify-content-center.align-items-center(titulo="Paso 1. Guía APH (atención prehospitalaria)")
         .col-md-5.mb-4.mb-md-0
           ul.lista-ul--color.mt-5.mb-5
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               | Maneja técnicas de salvamento.
 
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               | Garantiza la disponibilidad de los equipos para emergencias.
 
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               | Evalúa signos y síntomas de salud de los usuarios.
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               | Aplica primeros auxilios.
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               | Mantiene contacto con entidades de atención en salud y redes.
         .col-md-1
         .col-md-4
           figure
             img(src='@/assets/curso/tema3/img8.png', alt='Texto que describa la imagen')
-      .row.justify-content-center(titulo="Paso 2. Guía fijo / Guía local")
+      .row.justify-content-center.align-items-center(titulo="Paso 2. Guía fijo / Guía local")
         .col-md-5.mb-4.mb-md-0
           ul.lista-ul--color.mt-5.mb-5
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               | Fijo: presta sus servicios para un atractivo puntual como museos, parques nacionales, entre otros.
 
 
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               | Local: muestra los recursos turísticos de una zona determinada. Posee conocimientos profundos en relación con su ámbito de actuación particular.
 
         .col-md-1
         .col-md-4
           figure
             img(src='@/assets/curso/tema3/img9.png', alt='Texto que describa la imagen')
-      .row.justify-content-center(titulo="Paso 3. Coordinador/ Tour leader/ Gerente de viaje / Tour conductor")
+      .row.justify-content-center.align-items-center(titulo="Paso 3. Coordinador/ Tour leader/ Gerente de viaje / Tour conductor")
         .col-md-5.mb-4.mb-md-0
           ul.lista-ul--color.mt-5.mb-5
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Coordina la logística y operación.
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Administra los recursos financieros.
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Maneja y organiza los equipos de comunicación.
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Define los lugares en donde se brindará la alimentación.
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Vigila la seguridad de los turistas.
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Coordina la información que se va a suministrar sobre la zona a visitar.
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Organiza los grupos de turistas.
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Delega y faculta funciones y responsabilidades.
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Controla y evalúa el cumplimiento del programa.
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Realiza el control de calidad de todos los servicios.
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Representa a la agencia de viajes ante los proveedores.
 
         .col-md-1
         .col-md-4
           figure
             img(src='@/assets/curso/tema3/img10.png', alt='Texto que describa la imagen')
-      .row.justify-content-center(titulo="Paso 4. Guía de ruta / Guía puntero")
+      .row.justify-content-center.align-items-center(titulo="Paso 4. Guía de ruta / Guía puntero")
         .col-md-5.mb-4.mb-md-0
           ul.lista-ul--color.mt-5.mb-5
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Motiva y sensibiliza en los recorridos, presenta atractivos.
 
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Dirige ejercicios de alistamiento muscular,  estiramiento y demás necesarios según la ruta. 
 
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Conduce el grupo.
 
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Determina los tiempos y espacios de acuerdo con las necesidades físicas y sicológicas de los usuarios.
 
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Maneja y supervisa los equipos que sean necesarios en el recorrido.
 
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Coordina y se apoya en los demás guías.
 
         .col-md-1
         .col-md-4
           figure
             img(src='@/assets/curso/tema3/img11.png', alt='Texto que describa la imagen')
-      .row.justify-content-center(titulo="Paso 5. Guía de cierre / Guía rastrillo")
+      .row.justify-content-center.align-items-center(titulo="Paso 5. Guía de cierre / Guía rastrillo")
         .col-md-5.mb-4.mb-md-0
           ul.lista-ul--color.mt-5.mb-5
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Garantiza que las personas rezagadas en el recorrido puedan llegar a la meta.
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Se asegura de que se cumpla la metodología No Dejar Rastro.
             li 
-              i.fas.fa-brain
+              i.fab.fa-telegram
               p.mb-0 Mantiene comunicación permanente con el guía líder.
 
 
@@ -427,4 +427,7 @@ export default {
   left: 50%
 .bloque-texto-g
   justify-content: flex-start
+.bloque-texto-g__img
+  @media screen and ( max-width: 769px)
+    left: 0%
 </style>

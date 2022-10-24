@@ -34,7 +34,7 @@
           i.fas.fa-quote-right
           p “Se denominan materiales los utilizados por los guías de turismo para facilitar la adecuada prestación de servicio”
           h4.mb-0 (SENA, 2018)   
-        p Se caracterizan por ser fungibles o que se consumen con el uso, deben determinarse en la fase de planeación para incluirlo en el presupuesto y asignar responsablemente. 
+        p.mt-3 Se caracterizan por ser fungibles o que se consumen con el uso, deben determinarse en la fase de planeación para incluirlo en el presupuesto y asignar responsablemente. 
         p Estos materiales son clasificados de acuerdo con su funcionalidad, y en la siguiente tabla se puede observar cómo se determina su característica y uso.
       .col-lg-5
         img(src='@/assets/curso/tema4/img3.png', alt='Texto que describa la imagen')
@@ -96,8 +96,8 @@
       .col-lg-5
         .row
           .col-lg-1
-            img(src='@/assets/curso/tema3/img2.svg', alt='Texto que describa la imagen')
-          .col-lg-10
+            img.fa(src='@/assets/curso/tema3/img2.svg', alt='Texto que describa la imagen')
+          .col-lg-10.lineaz
             h4 Especificaciones y cuidado de equipos operativos
     p.mt-3 Para la administración de los equipos operativos es necesario que se identifiquen previamente las especificaciones técnicas dadas por el fabricante. Cuando el equipo es nuevo, dentro de su empaque viene el manual de instrucciones el cual contiene las indicaciones para el correcto uso y la descripción de los materiales que lo componen junto con la indicación sobre cómo hacer el mantenimiento. Una explicación respecto a las especificaciones técnicas para los equipos operativos se encuentra a continuación. 
     .row.bg6
@@ -149,35 +149,35 @@
     p.mt-4 Los equipos, de acuerdo con sus características, deben tener una hoja de vida en donde se registre su uso y novedades, porque esto determina su aplicabilidad y vida útil. La hoja de vida del equipo debe llevar como mínimo los siguientes criterios:
     .row.justify-content-center.mt-5
       .col-lg-10
-        .row
+        .row.justify-content-center
           .col-lg-8.bac3
             ul.lista-ul--color.mt-5.mb-5
               li 
-                i.fas.fa-brain
+                i.fab.fa-telegram
                 p.mb-0 Nombre del equipo.
               li 
-                i.fas.fa-brain
+                i.fab.fa-telegram
                 p.mb-0 Descripción detallada del equipo.
               li 
-                i.fas.fa-brain
+                i.fab.fa-telegram
                 p.mb-0 Horas sugeridas de uso del equipo (si aplica).
               li 
-                i.fas.fa-brain
+                i.fab.fa-telegram
                 p.mb-0 Foto del equipo.
               li 
-                i.fas.fa-brain
+                i.fab.fa-telegram
                 p.mb-0 Fecha de compra.
               li 
-                i.fas.fa-brain
+                i.fab.fa-telegram
                 p.mb-0 Fecha de uso con número de horas y actividad realizada.
               li 
-                i.fas.fa-brain
+                i.fab.fa-telegram
                 p.mb-0 Fecha de devolución del equipo.
               li 
-                i.fas.fa-brain
+                i.fab.fa-telegram
                 p.mb-0 Reporte de novedades, antes, durante y después del uso del equipo.
 
-          .col-lg-4
+          .col-lg-4.col-8
             img(src='@/assets/curso/tema4/img7.png', alt='Texto que describa la imagen')
     p.mt-4 La siguiente figura nos presenta un ejemplo de formato de hoja de vida de equipo:
     .row.justify-content-center
@@ -201,7 +201,8 @@
               tr
                 td Descripción.
                 td Suspensión líquida en aceite.<br>Chasis en aluminio.<br>Lupa.<br>Color.
-                td 
+                <td><img src='@/assets/curso/tema4/brujula.svg' width='100px'></td> 
+
               tr
                 td Fecha de uso.
                 td Actividad Realizada – Horas de actividad.
@@ -214,10 +215,10 @@
       .col-lg-5
         .row
           .col-lg-1
-            img(src='@/assets/curso/tema3/img2.svg', alt='Texto que describa la imagen')
-          .col-lg-10
+            img.fa(src='@/assets/curso/tema3/img2.svg', alt='Texto que describa la imagen')
+          .col-lg-10.lineaz
             h4 El botiquín como equipo de seguridad
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mt-3
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema4/img8.png')})`}"
       )
@@ -238,27 +239,27 @@
 
             tbody
               tr
-                td Botiquín
+                td.text-center Botiquín
                 td Es un elemento destinado a contener medicamentos para curaciones y utensilios indispensables para brindar los primeros auxilios en caso de presentarse un accidente durante la actividad de la guianza. <br><br>Permite socorrer al turista y al guía de turismo en situaciones de riesgos en su salud, sea por enfermedad, caídas, roturas, mareos, náuseas, picaduras, malestares, accidentes, entre otros.
                 td Mantener en un lugar seco y fresco, revisar fecha de vencimiento de medicamentos.
-    .row.mt-4
+    .row.mt-4.justify-content-center
       .col-lg-8
         p El botiquín es un equipo que debe estar en las instalaciones de entidades públicas y privadas, esto incluye atractivos turísticos, museos, centros vacacionales entre otras. Existe una normativa por medio de la cual se adoptan directrices generales para la elaboración del plan de gestión del riesgo de desastres de las entidades públicas y privadas en el marco de la Ley 152 de 20123, artículo 42, y establece que “cada entidad debe contar con protocolos y procedimientos y un equipo de respuesta establecido en su plan de emergencia y contingencia”. 
         p Para ampliar la información, lo invitamos a leer los siguientes documentos, los cuales se encuentran en el material complementario:
         ul.lista-ul--color
           li 
-            i.fas.fa-brain
+            i.fab.fa-telegram
             | Dotación para botiquines y ambulancias 
           li 
-            i.fas.fa-brain
+            i.fab.fa-telegram
             | Fármacos y suplementos nutricionales para llevar en el botiquín del alpinista.
           li 
-            i.fas.fa-brain
+            i.fab.fa-telegram
             | Resolución 926 de 2017 - Sistema de Emergencias Médicas (SEM).
           li 
-            i.fas.fa-brain
+            i.fab.fa-telegram
             | Decreto 2157 de 2017.
-      .col-lg-4
+      .col-lg-4.col-8
         img(src='@/assets/curso/tema4/img9.png', alt='Texto que describa la imagen')
     p.mt-4 Según los expertos en salud pública, los diferentes tipos de botiquines se puede encontrar de acuerdo con el lugar y uso de aplicación, cada uno de estos tiene su respectiva guía, como se indica a continuación:
     .tarjeta.tarjeta--azul.p-4.mb-5.baga
@@ -295,29 +296,29 @@
           .col-md-7
             figure
               img(src='@/assets/curso/tema4/img13.png', alt='Texto que describa la imagen')
-    .row.mt-5 
-      .col-lg-4
+    .row.mt-5.justify-content-center
+      .col-lg-4.col-8
         img(src='@/assets/curso/tema4/img14.png', alt='Texto que describa la imagen')
       .col-lg-8
         p Tanto el guía, como el asignado por la administración, deben verificar la existencia del botiquín en los establecimientos a visitar, así mismo deben tomar medidas preventivas y correctivas del caso, entre ellas seleccionar el tipo de botiquín y el recurso humano que se requiera para la atención del usuario en caso de ser necesario. Para tomar esta decisión, el guía de turismo o la agencia contratante deben evaluar:
         ul.lista-ul--color
           li 
-            i.fas.fa-brain
+            i.fab.fa-telegram
             | Tipo de turismo a realizar.	
 
           li 
-            i.fas.fa-brain
+            i.fab.fa-telegram
             | Los peligros y riesgos de las actividades para desarrollar.
 
           li 
-            i.fas.fa-brain
+            i.fab.fa-telegram
             | Número de participantes y capacidad de carga del lugar a visitar.
 
           li 
-            i.fas.fa-brain
+            i.fab.fa-telegram
             | Ubicación de los recursos físicos y humanos.
           li 
-            i.fas.fa-brain
+            i.fab.fa-telegram
             | Tiempo de respuesta del Sistema de Emergencias Médicas (SEM).
     .row.mt-4
       .col-lg-7
@@ -328,7 +329,7 @@
     p.mt-4 Algunos errores comunes frente al uso del botiquín son:
     TabsC.color-primario.mt-5
       .py-3.py-md-4(titulo="No es un dispensario de medicamentos")
-        .row.justify-content-center
+        .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0.mt-5
             p.mt-4 Considerar un dispensario de medicamentos. La automedicación es un ejercicio peligroso. 
               span.colt <strong>¡Un botiquín básico no debe contener medicamentos!</strong>
@@ -337,7 +338,7 @@
             figure
               img(src='@/assets/curso/tema4/img16.png', alt='Texto que describa la imagen')
       .py-3.py-md-4(titulo="Entre más elementos se tengan, no es mejor")
-        .row.justify-content-center
+        .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0.mt-5
             p.mt-4 Pensar que cuantos más elementos contenga es mejor; quien porta el botiquín y utiliza su contenido es responsable legalmente de las consecuencias que genere el uso de su contenido.
           .col-md-5
@@ -367,12 +368,12 @@
                 p.mt-5 Debe estar ordenado y con todos los materiales claramente identificados y etiquetados con su fecha de vencimiento.
               .col-md-2
                 figure
-                  img(src='@/assets/curso/tema4/img20.svg', alt='Texto que describa la imagen')
+                  img.tamaq(src='@/assets/curso/tema4/img20.svg', alt='Texto que describa la imagen')
 
             .row.mt-4.mb-4
               .col-md-2.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/tema4/img21.svg', alt='Texto que describa la imagen')
+                  img.tamaq(src='@/assets/curso/tema4/img21.svg', alt='Texto que describa la imagen')
               .col-md-8
                 p.mt-4 El lugar de conservación debe ser apropiado, sin humedades o suciedad y sin demasiada luz o claridad.
             .row.mt-4.mb-4
@@ -380,11 +381,11 @@
                 p.mt-5 Se debe revisar el estado de los materiales antes de cada salida para detectar elementos en mal estado, caducados y reponer los que se están agotando.
               .col-md-2
                 figure
-                  img(src='@/assets/curso/tema4/img22.svg', alt='Texto que describa la imagen')
+                  img.tamaq(src='@/assets/curso/tema4/img22.svg', alt='Texto que describa la imagen')
             .row.mt-4.mb-4
               .col-md-2.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/tema4/img23.svg', alt='Texto que describa la imagen')
+                  img.tamaq(src='@/assets/curso/tema4/img23.svg', alt='Texto que describa la imagen')
               .col-md-8
                 p.mt-4 No se deben guardar medicamentos para enfermedades de los turistas (asma, diabetes, epilepsia, etc.), cada uno de ellos y sus familiares son los responsables de su utilización y transporte.
             .row.mt-4.mb-4
@@ -392,11 +393,11 @@
                 p.mt-5 Procurar no mezclar o transportar en él otros artículos de higiene.
               .col-md-2
                 figure
-                  img(src='@/assets/curso/tema4/img24.svg', alt='Texto que describa la imagen')
+                  img.tamaq(src='@/assets/curso/tema4/img24.svg', alt='Texto que describa la imagen')
             .row.mt-4.mb-4
               .col-md-2.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/tema4/img25.svg', alt='Texto que describa la imagen')
+                  img.tamaq(src='@/assets/curso/tema4/img25.svg', alt='Texto que describa la imagen')
               .col-md-8
                 p.mt-4 Es aconsejable que se incluya en el botiquín una lista de los teléfonos de urgencia de la zona (bomberos, policía, ambulancia, centros médicos más próximos, entre otros).
             .row.mt-4.mb-4
@@ -404,11 +405,11 @@
                 p.mt-5 Incluir un recordatorio de los protocolos de actuación ante accidentes frecuentes y graves, principalmente el de soporte vital básico (manténgalos actualizados).
               .col-md-2
                 figure
-                  img(src='@/assets/curso/tema4/img26.svg', alt='Texto que describa la imagen')                              
+                  img.tamaq(src='@/assets/curso/tema4/img26.svg', alt='Texto que describa la imagen')                              
             .row.mt-4.mb-4
               .col-md-2.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/tema4/img27.svg', alt='Texto que describa la imagen')
+                  img.tamaq(src='@/assets/curso/tema4/img27.svg', alt='Texto que describa la imagen')
               .col-md-8
                 p.mt-4 No debe tener cerraduras complicadas para evitar la dificultad de abrirlo cuando el tiempo apremia.
             .row.mt-4.mb-4
@@ -416,11 +417,11 @@
                 p.mt-5 Es obligatorio mantener el botiquín fuera del alcance de los niños.
               .col-md-2
                 figure
-                  img(src='@/assets/curso/tema4/img28.svg', alt='Texto que describa la imagen')                              
+                  img.tamaq(src='@/assets/curso/tema4/img28.svg', alt='Texto que describa la imagen')                              
             .row.mt-4.mb-4
               .col-md-2.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/tema4/img29.svg', alt='Texto que describa la imagen')
+                  img.tamaq(src='@/assets/curso/tema4/img29.svg', alt='Texto que describa la imagen')
               .col-md-8
                 p.mt-4 Durante el servicio se debe limitar el acceso al botiquín solo a las personas con el entrenamiento para administrarlo.  
                                             

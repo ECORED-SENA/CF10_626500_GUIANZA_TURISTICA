@@ -19,7 +19,7 @@
                 i.fas.fa-caret-down.fa-2x.color-primario.me-3
               h4.mb-0.text-center.mb-4  El guía de turismo no es un ejecutor
             
-            p.text-center El guía de turismo no es meramente un ejecutor, sino el responsable de la coordinación de varios recursos dispuestos para el servicio guiado, no puede recurrir en estrategia de ensayo y error, porque generar descontento en sus usuarios y desconfianza en los otros prestadores de servicio (proveedores), por ello asume el papel de administrador (Chiavenato, 2012).
+            p.text-center.text-small El guía de turismo no es meramente un ejecutor, sino el responsable de la coordinación de varios recursos dispuestos para el servicio guiado, no puede recurrir en estrategia de ensayo y error, porque generar descontento en sus usuarios y desconfianza en los otros prestadores de servicio (proveedores), por ello asume el papel de administrador (Chiavenato, 2012).
       .col-lg-4.mb-3
         .tarjetas-up
           img.p-4.aq(src='@/assets/curso/tema1/img2.png' alt='AvatarTop' style='width:400px')
@@ -147,11 +147,13 @@
     figcaption.mt-3 Nota. Tomada de Luna (2015).
     .row.mt-4
       .col-lg-8.mt-5
+        .row.mt-4
         .row.p-4.colort1.mt-5
-          p.colort11 Para la efectividad del proceso administrativo en la guianza turística, se suma, el enfoque en el cliente a partir de la teoría de la Calidad Total (CT), que se apoya en el manejo de estadísticas y la mejora de los productos que van acorde a los requerimientos de los consumidores. 
-          p.colort11 El término Calidad Total (CT) en la guianza es más que un concepto, es una filosofía, enfocada en la mejora continua de todos los procesos, es decir hacerlos más efectivos, eficientes y adaptables para dar al usuario lo que necesita cuando lo necesita, con un precio competitivo, que complementa el concepto: la experiencia cliente. 
+          p.colort123 Para la efectividad del proceso administrativo en la guianza turística, se suma, el enfoque en el cliente a partir de la teoría de la Calidad Total (CT), que se apoya en el manejo de estadísticas y la mejora de los productos que van acorde a los requerimientos de los consumidores. 
+          p.colort123 El término Calidad Total (CT) en la guianza es más que un concepto, es una filosofía, enfocada en la mejora continua de todos los procesos, es decir hacerlos más efectivos, eficientes y adaptables para dar al usuario lo que necesita cuando lo necesita, con un precio competitivo, que complementa el concepto: la experiencia cliente. 
+      
       .col-lg-4
-        img(src='@/assets/curso/tema1/img14.png', alt='Texto que describa la imagen')
+        img.inaz(src='@/assets/curso/tema1/img14.png', alt='Texto que describa la imagen')
     p.mt-4 Como lo exponen García et al. (2003), la principal herramienta para implementar la calidad total es el ciclo PHVA, que los japoneses llamaron el ciclo de Demming. Al aplicarlo a la guianza se expresa e interpreta así:
     .row.bg2.mt-4.justify-content-center
       .col-lg-8
@@ -182,7 +184,7 @@
 
                 p.mb-0 Revisar problemas y errores durante el servicio.
 
-                p.mb-0 Verificar que quedó pendiente por resolver. 
+                p.mb-0 Verificar qué quedó pendiente por resolver. 
 
               .col-lg-5
                 img(src='@/assets/curso/tema1/img18.svg', alt='Texto que describa la imagen')

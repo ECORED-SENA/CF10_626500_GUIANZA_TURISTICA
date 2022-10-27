@@ -46,7 +46,7 @@
         thead
           tr
             <th colspan="2"> Material</th>
-            th Uso <br>Opreción Interpretación
+            th Uso <br>Operación Interpretación
 
         tbody
           tr
@@ -55,7 +55,7 @@
             td 
 
           tr
-            td <strong>Material promocional de la empresa organizadora viaje:</strong> tarjetas, brochures, esferos, similares.
+            td <strong>Material promocional de la empresa organizadora viaje:</strong> tarjetas, <i>brochures</i>, esferos, similares.
             td.text-center X
             td 
           tr
@@ -67,7 +67,7 @@
             td.text-center X
             td.text-center X
           tr
-            td <strong>Didácticos:</strong> hacen relación a elementos que diseña el guía o usa para actividades recreativas o para facilitar la explicación sobre un atractivo turístico, un fenómeno natural o una costumbre. Entre ellos: catálogo especializado, álbum de fotos antiguas, juegos de mesa, afiches. bombas, vasos, entre otros.
+            td <strong>Didácticos:</strong> hacen relación a elementos que diseña el guía o usa para actividades recreativas o para facilitar la explicación sobre un atractivo turístico, un fenómeno natural o una costumbre. Entre ellos: catálogo especializado, álbum de fotos antiguas, juegos de mesa, afiches, bombas, vasos, entre otros.
             td 
             td.text-center X
 
@@ -109,7 +109,7 @@
         .tarjeta.color-acento-botones.p-3(x="24%" y="15%" numero="+")
           .h4.mb-2 <i>Touring Guide System - TGS</i>
           p Es un dispositivo de audio inalámbrico que permite a los guías o coordinadores de grupos dar sus explicaciones e información sin tener que elevar la voz para ser escuchado, incluso en sitios abiertos. El guía o coordinador del grupo utiliza un emisor con un micrófono y los turistas llevan un audífono conectado inalámbricamente a un receptor. 
-          p Debe siempre encenderse el equipo para determinar un posible daño, realizar inspección visual externa, revisar el switch de encendido y el control de volumen, así como el speaker (parlante) y el micrófono, hacer limpieza con paño seco. Proteger de excesivas temperaturas bajas o altas.
+          p Debe siempre encenderse el equipo para determinar un posible daño, realizar inspección visual externa, revisar el <i>switch</i> de encendido y el control de volumen, así como el <i>speaker</i> (parlante) y el micrófono, hacer limpieza con paño seco. Proteger de excesivas temperaturas bajas o altas.
         .tarjeta.color-acento-botones.p-3(x="78%" y="15%" numero="+")
           .h4.mb-2 Micrófono de solapa
           p Es un dispositivo útil para la transmisión en entornos muy ruidosos, este puede ser empleado para lugares donde el flujo de personas es numeroso, así el guía de turismo puede girar la cabeza y tener movilidad de sus extremidades.
@@ -137,7 +137,7 @@
           p Mantener sin las pilas cuando no esté en uso y en un lugar seco y protegido de excesivas temperaturas altas o muy bajas.
         .tarjeta.color-acento-botones.p-3(x="31%" y="90%" numero="+")
           .h4.mb-2 <i>Walkie</i> o radio comunicador
-          p Marino y terrestre: son útiles para la comunicación y mantenerse en contacto con los organizadores y staff.  Entre estos dispositivos también se incluyen el transceptor marino. Recuerde siempre tener siempre baterías de reemplazo.
+          p Marino y terrestre: son útiles para la comunicación y mantenerse en contacto con los organizadores y <i>staff</i>.  Entre estos dispositivos también se incluyen el transceptor marino. Recuerde siempre tener baterías de reemplazo.
           p Como cualquier elemento eléctrico u operado por batería deben seguirse las instrucciones de cuidado ya mencionadas para este tipo de equipos.
     .row
       .col-lg-5

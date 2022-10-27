@@ -70,7 +70,7 @@
             
               .col-md-9
                 p Presentarse a sí mismo y a su equipo de trabajo. 
-                p.mt-4 Informar a los turistas el idioma en el que se prestará el servicio, las tarifas (costo total del servicio, que incluye y que no), la duración del servicio, el aforo de participantes, así como todos los demás detalles del servicio a ofrecer.
+                p.mt-4 Informar a los turistas el idioma en el que se prestará el servicio, las tarifas (costo total del servicio, qué incluye y qué no), la duración del servicio, el aforo de participantes, así como todos los demás detalles del servicio a ofrecer.
                 p.mt-3 Actuar como interlocutor entre la agencia y el grupo.
                 p.mt-4 Asistir a los viajeros en los <i>"check in"</i> y <i>"check out"</i> de aeropuertos y hoteles. Está al tanto del equipaje, el transporte, las reservas.
                 p.mt-4.mb-5 Comunicar datos técnicos sobre los sitios a visitar. Asimismo, datos de interés particular como cambios de divisas, compras, otros sitios para visitar, alternativas gastronómicas, entre otros.
@@ -87,9 +87,9 @@
  
                 p.mt-3 Velar por que las estancias discurran de manera grata, intentando generar buenas relaciones entre los miembros del grupo que tiene a cargo.
 
-                p.mt-3 Pasar a los viajeros cuestionarios de satisfacción sobre el servicio o servicios prestado por parte de la empresa organizadora o el guía directamente.
+                p.mt-3 Pasar a los viajeros cuestionarios de satisfacción sobre el servicio o servicios prestados por parte de la empresa organizadora o el guía directamente.
 
-                p.mt-3 Cuidar de la organización del viaje transcurra de acuerdo con lo previsto.
+                p.mt-3 Cuidar que la organización del viaje transcurra de acuerdo con lo previsto.
     .row
       .col-lg-2
         .row
@@ -195,7 +195,7 @@
         .col-md-4
           figure
             img(src='@/assets/curso/tema3/img9.png', alt='Texto que describa la imagen')
-      .row.justify-content-center.align-items-center(titulo="Paso 3. Coordinador/ Tour leader/ Gerente de viaje / Tour conductor")
+      .row.justify-content-center.align-items-center(titulo="Paso 3. Coordinador/ <i>Tour leader</i>/ Gerente de viaje / <i>Tour conductor</i>")
         .col-md-5.mb-4.mb-md-0
           ul.lista-ul--color.mt-5.mb-5
             li 
@@ -275,7 +275,7 @@
               p.mb-0 Garantiza que las personas rezagadas en el recorrido puedan llegar a la meta.
             li 
               i.fab.fa-telegram
-              p.mb-0 Se asegura de que se cumpla la metodología No Dejar Rastro.
+              p.mb-0 Se asegura de que se cumpla la metodología. No Dejar Rastro.
             li 
               i.fab.fa-telegram
               p.mb-0 Mantiene comunicación permanente con el guía líder.
@@ -385,7 +385,7 @@
             tr
               th Diligencia la lista de chequeo para la prestación del servicio.
             tr
-              th Analiza las diferencias entre los planteado y ejecutado.
+              th Analiza las diferencias entre lo planteado y ejecutado.
 
 
 

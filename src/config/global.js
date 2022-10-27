@@ -246,7 +246,7 @@ export default {
     {
       termino: 'Actividad mercantil',
       significado:
-        'la que ejerce un comerciante al ofrecer en un mercado bienes y servicios en el marco de la normativa. también conocida como operación mercantil. (Cámara de Comercio de Cali, s. f.).',
+        'la que ejerce un comerciante al ofrecer en un mercado bienes y servicios en el marco de la normativa. También conocida como operación mercantil. (Cámara de Comercio de Cali, s. f.).',
     },
     {
       termino: 'Calidad',
@@ -261,7 +261,7 @@ export default {
     {
       termino: 'Lista de pasajeros',
       significado:
-        'formato que describe una lista de turistas con sus nombres, apellidos y nacionalidad, la cual está a cargo del guía turístico. es un material de consulta necesario para los recorridos que sirve para obtener información precisa sobre los visitantes (SENA, 2008).',
+        'formato que describe una lista de turistas con sus nombres, apellidos y nacionalidad, la cual está a cargo del guía turístico. Es un material de consulta necesario para los recorridos que sirve para obtener información precisa sobre los visitantes (SENA, 2008).',
     },
     {
       termino: 'Material de curación',
@@ -311,7 +311,7 @@ export default {
     {
       termino: 'Sustancias antisépticas',
       significado:
-        'sustancias que previenen la infección, evitando la presencia de gérmenes que por lo general se encuentran presentes en lesiones como consecuencia de accidentes, en el mercado existen múltiples sustancias con base a yodo y alcoholes con propiedades antisépticas, los cuales según los últimos criterios técnicos se deberán utilizar en circunstancias especiales , por lo cual la medida más recomendable técnicamente en primeros auxilios, será que un buen lavado de la lesión con la solución salina, suero fisiológico o agua estéril (ARL SURA, s.f.)',
+        'sustancias que previenen la infección, evitando la presencia de gérmenes que por lo general se encuentran presentes en lesiones como consecuencia de accidentes, en el mercado existen múltiples sustancias con base a yodo y alcoholes con propiedades antisépticas, los cuales según los últimos criterios técnicos se deberán utilizar en circunstancias especiales , por lo cual la medida más recomendable técnicamente en primeros auxilios, será un buen lavado de la lesión con la solución salina, suero fisiológico o agua estéril (ARL SURA, s.f.)',
     },
   ],
   complementario: [

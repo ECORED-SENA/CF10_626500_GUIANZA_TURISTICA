@@ -71,8 +71,13 @@
       .col-lg-5
         img(src='@/assets/curso/tema5/img5.png', alt='Texto que describa la imagen')    
     p.mt-3 Al momento de cobrarlo, si está cruzado, es decir, si tiene dos líneas paralelas trazadas en el anverso, no podrá cobrarlo en efectivo, sino que deberá consignarlo en una cuenta bancaria. El uso del cheque en la actualidad se ha visto reducido, ya que ha sido reemplazado por las transacciones en línea. Un ejemplo de cheque se aprecia en la siguiente imagen.
+    
     .row.justify-content-center
+
       .col-lg-10
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 9
+          span Cheque cruzado
         img(src='@/assets/curso/tema5/img6.png', alt='Texto que describa la imagen')    
     .row.mt-5
       .col-lg-2

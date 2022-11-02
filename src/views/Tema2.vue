@@ -65,84 +65,14 @@
         .col-lg-10
           img(src='@/assets/curso/tema2/img2.svg', alt='Texto que describa la imagen')
     p.mt-4 En guianza turística, la herramienta gráfica de Gantt es un recurso muy valioso para la planeación, y en la siguiente tabla se ofrece un ejemplo relacionado con este tema, donde se explica de forma descriptiva qué debe contener el recurso en relación con el tema que nos atañe.
-    .titulo-sexto.color-acento-contenido
-      h5 Tabla 1
-      span Ejemplo del Gráfico de Gantt en la planeación de la Guianza turística
-    .tabla-a.color-acento-contenido.mb-5 
-      table
-        caption Nota. Adaptado de Luna (2015).
-        thead
-          tr
-            th Significado del símbolo
-            th Símbolo
-
-        tbody
-          tr
-            td Inicio y terminación de la actividad.
-            td [  ]
-          tr
-            td Avance real de la actividad.
-            td 
-          tr
-            td Punto en que se encuentra el proyecto.
-            td 
-          tr
-            td.colora Depende de las características del servicio    =
-            td.colora Periodicidad
-          tr
-            td <strong>Descripción del procedimiento</strong>
-            td.text-center Horas, días o meses
-          tr
-            td <strong>Planificar</strong>
-            td 
-          tr
-            td Elabora los planes de acción y de contingencia.
-            td [  ]
-          tr
-            td Prepara el guion.
-            td [  ]
-          tr
-            td Coordina al equipo de trabajo.
-            td [  ]
-          tr
-            td Prepara la lista de verificación.
-            td [  ]
-          tr
-            td Prepara documentación, indumentaria y equipos.
-            td [  ]
-          tr
-            td <strong>Ejecutar</strong>
-            td [  ]
-          tr
-            td Conduce y establece pautas de convivencia.
-            td [  ]
-          tr
-            td Orienta sobre las características de los sitios a visitar.
-            td [  ]
-          tr
-            td Instuye sobre el patrimonio y sostenibilidad.
-            td [  ]    
-          tr
-            td Instruye sobre patrimonio y sostenibilidad.
-            td [  ]   
-          tr
-            td Asiste al usuario en trámites.
-            td [  ] 
-          tr
-            td <strong>Controlar</strong>
-            td 
-          tr
-            td Reporta cualquier anomalía en la prestación del servicio.
-            td [  ] 
-          tr
-            td Realiza una realimentación con el usuario sobre el servicio.
-            td [  ] 
-          tr
-            td Analiza las diferencias entre lo planteado y ejecutado.
-            td [  ] 
-
-
-
+    .row
+      .col-lg-7
+      .col-lg-5
+        a.anexo.mb-4(:href="obtenerLink('downloads/tabla1.pdf')" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p <strong>Anexo Tabla 1.</strong> Ejemplo del Gráfico de Gantt en la planeación de la Guianza turística
 
 
     .row.justify-content-center.mt-5
@@ -175,55 +105,15 @@
         img(src='@/assets/curso/tema2/imas.png', alt='Texto que describa la imagen')
         figcaption Nota. Adaptado de la norma técnica NTS GT 012. 
     p.mt-4 Los componentes del plan de acción se integran al itinerario que es un sencillo paso a paso, de una ruta, donde se muestran los lugares y tiempos de cada una de las actividades programadas. En la siguiente tabla, se puede apreciar mediante un ejemplo, los componentes del plan de acción relacionados con el servicio, los proveedores, las guías y las actividades.
-    .titulo-sexto.color-acento-contenido.mt-5
-      h5 Tabla 2
-      span Ejemplo del plan de acción
-    .tabla-b.color-acento-contenido.mb-5
-      .tabla-b__header
-        h4.mb-0 Plan de acción 
-      table
-        tr
-          <th colspan="6"> Información del servicio</th>
-        tr
-          <th colspan="6"> Objetivo</th>
-        tr
-          <th colspan="2"> Fecha y hora de inicio</th>
-          <td colspan="2"> Fecha y hora de inicio</td>
-          <td colspan="2"> N° de usuarios</td>
-        tr
-          <th colspan="2"> Guía coordinador</th>
-          <td colspan="2"> Contratante</td>
-          <td colspan="2"> N° de guias</td>
-        tr
-          <th colspan="2"> Punto encuentro </th>
-          <td colspan="2"> Ruta (paradas o estaciones)</td>
-          <td colspan="2"> Destino</td>
-        tr
-          <th colspan="6"> Diseño gráfico del recorrido</th>
-        tr
-          <th colspan="6"> Información de proveedores</th>   
-        tr
-          <th colspan="2"> Empresa/nombre/contacto</th>
-          <td colspan="2"> Dirección y teléfono/ ubicación</td>
-          <td colspan="2"> Observaciones</td>
-        tr
-          <th colspan="6"> Información de los guias</th>   
-        tr
-          <th colspan="2"> Cargo</th>
-          <td colspan="2"> Nombre completo</td>
-          <td colspan="2"> Información de contacto (mail y celular)   </td>  
-        tr
-          <th colspan="6"> Descripción de actividades-itinerarios de trabajo</th>   
-        tr          
-        tr
-          th Fecha/Hora
-          td Actividad (descripción)
-          td Responsable
-          td Equipos/materiales
-          td Unidades
-          td Observaciones  
-        tr
-          <th colspan="6"> Elaborado por:__________________________________________________________</th>   
+    .row
+      .col-lg-7
+      .col-lg-5
+        a.anexo.mb-4(:href="obtenerLink('downloads/tabla2.pdf')" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p <strong>Anexo Tabla 2.</strong>  Ejemplo del plan de acción
+
 </template>
 
 <script>

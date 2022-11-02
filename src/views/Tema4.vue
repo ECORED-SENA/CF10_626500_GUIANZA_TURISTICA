@@ -45,14 +45,16 @@
       table
         thead
           tr
-            <th colspan="2"> Material</th>
-            th Uso <br>Operación Interpretación
+            th.wimble  Material
+            <th colspan="2"> Uso <br>Operación
+              span.clort ___________
+              | Interpretación</th>
 
         tbody
           tr
             td <strong>Material turístico sobre destino y atractivos:</strong> mapa de rutas, plano de la ciudad, listado facilidades (alojamiento,	 alimentación y entretención), cupones de descuentos, atractivos locales y regionales. 
             td.text-center X
-            td 
+            td
 
           tr
             td <strong>Material promocional de la empresa organizadora viaje:</strong> tarjetas, <i>brochures</i>, esferos, similares.
